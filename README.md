@@ -1,5 +1,5 @@
+<img src="https://i.ibb.co/7bcPRxH/Github-and-Linked-In-Banner.png" alt="Github-and-Linked-In-Banner" >
 
-<img src="https://i.ibb.co/cJpGd5H/Github-Banner.png" width='100%'/>
 
 
 <h1 align="center">Hi, I'm Ishan Sen</h1>

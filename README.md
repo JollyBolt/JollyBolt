@@ -1,4 +1,6 @@
-![MasterHead]("https://drive.google.com/drive/u/0/folders/1998QywM8gikXakid2tgn3GPtQ9QeRAPc")
+
+<img align="" alt="Coding"  src="Github%20Banner.png">
+
 <h1 align="center">Hi, I'm Ishan Sen</h1>
 <h3 align="center">Passionate about coding and competitive programming. Most proficient in C++. Excellent problem-solving skills and ability to perform well in a team. The domain of web development intrigues me the most and I aim to become a full-stack web developer. Currently working on react.js and next.js.</h3>
 <br>

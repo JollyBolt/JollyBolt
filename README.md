@@ -1,8 +1,7 @@
 
-
+<img src="https://i.ibb.co/cJpGd5H/Github-Banner.png" width='100%'/>
 
 <h1 align="center">Hi, I'm Ishan Sen</h1>
-<img src="https://github.com/JollyBolt/JollyBolt/blob/main/Github%20Banner.png"/>
 <h3 align="center">Passionate about coding and competitive programming. Most proficient in C++. Excellent problem-solving skills and ability to perform well in a team. The domain of web development intrigues me the most and I aim to become a full-stack web developer. Currently working on react.js and next.js.</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">

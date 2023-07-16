@@ -18,6 +18,7 @@
 <!-- - 📄 Know about my experiences [--](--) -->
 <br>
 <h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
 <a href="https://linkedin.com/in/theishansen" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="theishansen" /></a>
 <a href="https://instagram.com/ishan._.sen" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="ishan._.sen"  /></a>
@@ -25,10 +26,10 @@
 <a href="https://www.leetcode.com/jolly_bolt" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="jolly_bolt" /></a>
 </p>
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3><hr>
 <p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
+<a style="padding-right:10px;" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img style="padding-right:10px;" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> </a> 
@@ -40,7 +41,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> </a> </p>
 <br>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jollybolt&layout=compact&langs_count=8&card_width=320" />
+<!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jollybolt&layout=compact&langs_count=8&card_width=320" /> -->
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jollybolt&show_icons=true&locale=en" alt="jollybolt" /></p> -->

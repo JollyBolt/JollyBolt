@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Ishan Sen</h1>
 <h3 align="center">Passionate about coding and competitive programming. Most proficient in C++. Excellent problem-solving skills and ability to perform well in a team. The domain of web development intrigues me the most and I aim to become a full-stack web developer. Currently working on react.js and next.js.</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3JRHAcf7klCfMgSO2HK__L&ust=1694944875783000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjl_ezvroEDFQAAAAAdAAAAABAD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jollybolt&label=Profile%20views&color=0e75b6&style=flat" alt="jollybolt" /> </p>
 

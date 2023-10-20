@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/7bcPRxH/Github-and-Linked-In-Banner.png" alt="Github-and-Linked-In-Banner" >
+
+![Github Banner](https://github.com/JollyBolt/JollyBolt/assets/68071708/ed245195-b27d-4bdf-89e3-d3e4a74b7172)
 
 
 

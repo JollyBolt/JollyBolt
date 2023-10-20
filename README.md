@@ -3,8 +3,10 @@
 
 
 <h1 align="center">Hi, I'm Ishan Sen</h1>
+
 <h3 align="center">Passionate about coding and competitive programming. Most proficient in C++. Excellent problem-solving skills and ability to perform well in a team. The domain of web development intrigues me the most and I aim to become a full-stack web developer. Currently working on react.js and next.js.</h3>
 <br>
+
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jollybolt&label=Profile%20views&color=0e75b6&style=flat" alt="jollybolt" /> </p>
